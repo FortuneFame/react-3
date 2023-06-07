@@ -14,7 +14,7 @@ const Dog = () => {
     ) 
 };  
 
-console.log(<Dog />);
+// console.log(<Dog />);
 console.log(ReactDOMServer.renderToString(<Dog />));
 
 export default Dog;

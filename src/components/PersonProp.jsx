@@ -2,7 +2,7 @@ import React from "react";
 
 const PersonProp = ({ name, description }) => {
 
-    console.log('Props:', { name, description })
+    // console.log('Props:', { name, description })
 
     return (
         <div className="personProp">
@@ -12,6 +12,6 @@ const PersonProp = ({ name, description }) => {
     );
 };
 
-console.log(<PersonProp name='Железный Человек' description='Железный Человек - это Тони Старк, гениальный изобретатель и миллиардер.' />);
+// console.log(<PersonProp name='Железный Человек' description='Железный Человек - это Тони Старк, гениальный изобретатель и миллиардер.' />);
 
 export default PersonProp;
