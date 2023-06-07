@@ -1,0 +1,53 @@
+p{
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+
+img{
+    display: block;
+    margin: auto;
+}
+
+.dog,
+.cat{
+    margin: auto;
+    width: 60%;
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 1px solid #ff0964;
+}
+
+.personProp{
+    border: 1px solid black;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.personChild{
+    padding: 20px;
+    border: 1px solid blue;
+}
+
+.allData{
+    margin: auto;
+    width: 60%;
+    padding: 20px;
+    border: 1px solid green;
+    text-align: center;
+}
+
+.app {
+    padding: 50px;
+    border: 1px solid grey;
+    width: 70%;
+    margin: auto;
+}
+
+.obj{
+    border: 1px solid tomato;
+    margin: auto;
+    width: 60%;
+    margin-bottom: 20px;
+    padding: 20px;
+}
